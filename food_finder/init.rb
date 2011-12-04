@@ -1,3 +1,7 @@
+# Load Bundler
+require 'rubygems'
+require 'bundler/setup'
+
 ### Food Finder ###
 # Launch this Ruby file from the command line to get started.
 
