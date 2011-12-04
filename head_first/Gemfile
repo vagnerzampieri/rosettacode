@@ -1,0 +1,4 @@
+source "http://rubygems.org"
+
+# Pretty printed test output
+gem 'turn', :require => false
