@@ -1,8 +1,4 @@
-require 'test/unit'
-
-APP_ROOT = File.dirname(__FILE__)
-
-$:.unshift(File.join(APP_ROOT, 'lib'))
+require File.expand_path('../../boot', __FILE__)
 require 'guide'
 
 class GuideTest < Test::Unit::TestCase

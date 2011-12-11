@@ -1,0 +1,7 @@
+require File.expand_path('../boot', __FILE__)
+
+task :default => [:test]
+
+task :test do
+  ruby "test/guide_test.rb"
+end
