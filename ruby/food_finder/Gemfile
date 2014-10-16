@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+# Pretty printed test output
+gem 'turn', :require => false
+#gem 'shoulda', '2.11.3'
+#gem "simplecov", "0.5.3"
