@@ -2,14 +2,28 @@ require 'support/number_helper'
 
 RSpec.describe NumberHelper do
   describe '#number_to_currency' do
-    it 'to dollar' do
-      dollar = Dollar.new(10)
-      expect(dollar.number).to eql('$10.00')
+    context 'to dollar' do
+      it 'with 2 digits' do
+        dollar = Dollar.new(10)
+        expect(dollar.number).to eql('$10.00')
+      end
+
+      it 'with 6 digits' do
+        dollar = Dollar.new(1000)
+        expect(dollar.number).to eql('$1,000.00')
+      end
     end
 
-    it 'to real' do
-      real = Real.new(10)
-      expect(real.number).to eql('R$10,00')
+    context 'to real' do
+      it 'with 2 digits' do
+        real = Real.new(10)
+        expect(real.number).to eql('R$10,00')
+      end
+
+      it 'with 6 digits' do
+        real = Real.new(1000)
+        expect(real.number).to eql('R$1.000,00')
+      end
     end
   end
 end
