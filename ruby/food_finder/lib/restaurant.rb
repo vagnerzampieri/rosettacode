@@ -1,38 +1,35 @@
 require 'support/number_helper'
 class Restaurant
   include NumberHelper
-  
+
   @@filepath = nil
-  
-  def self.filepath=(path=nil)
+
+  def self.filepath=(path = nil)
     @@filepath = File.join(APP_ROOT, path)
   end
-  
+
   attr_accessor :name, :cuisine, :price
-  
+
   def self.file_exists?
     # class should know if the restaurant file exists
-    if @@filepath && File.exists?(@@filepath)
-      return true
-    else
-      return false
-    end
+    true if @@filepath && File.exist?(@@filepath)
+    false
   end
-  
+
   def self.file_usable?
     return false unless @@filepath
-    return false unless File.exists?(@@filepath)
+    return false unless File.exist?(@@filepath)
     return false unless File.readable?(@@filepath)
     return false unless File.writable?(@@filepath)
-    return true
+    true
   end
-  
+
   def self.create_file
     # create the restaurant file
     File.open(@@filepath, 'w') unless file_exists?
-    return file_usable?
+    file_usable?
   end
-  
+
   def self.saved_restaurants
     # read the restaurant file
     # return instances of restaurant
@@ -44,45 +41,44 @@ class Restaurant
       end
       file.close
     end
-    return restaurants
+    restaurants
   end
-  
+
   def self.build_using_questions
     args = {}
-    print "Restaurant name: "
+    print 'Restaurant name: '
     args[:name] = gets.chomp.strip
 
-    print "Cuisine type: "
+    print 'Cuisine type: '
     args[:cuisine] = gets.chomp.strip
-    
-    print "Average price: "
+
+    print 'Average price: '
     args[:price] = gets.chomp.strip
-    
-    return self.new(args)
+
+    new(args)
   end
-  
-  def initialize(args={})
-    @name = args[:name] || ""
-    @cuisine = args[:cuisine] || ""
-    @price = args[:price] || ""
+
+  def initialize(args = {})
+    @name = args[:name] || ''
+    @cuisine = args[:cuisine] || ''
+    @price = args[:price] || ''
   end
-  
+
   def import_line(line)
     line_array = line.split("\t")
     @name, @cuisine, @price = line_array
-    return self
+    self
   end
-  
+
   def save
     return false unless Restaurant.file_usable?
     File.open(@@filepath, 'a') do |file|
       file.puts "#{[@name, @cuisine, @price].join("\t")}\n"
     end
-    return true
+    true
   end
-  
+
   def formatted_price
     number_to_currency(@price)
   end
-
 end

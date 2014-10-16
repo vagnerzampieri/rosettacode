@@ -1,5 +1,5 @@
 require 'guide/guide'
 
 RSpec.describe Guide do
-  it "run tests ..."
+  it 'run tests ...'
 end
