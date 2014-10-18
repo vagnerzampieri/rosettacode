@@ -27,17 +27,14 @@ class FormatsInCurrency
   end
 
   def precise_decimal
-    if precision == 0
-      ''
-    else
-      decimal = split_number[1]
-      # make sure decimal is not nil
-      decimal ||= '0'
-      # make sure the decimal is not too large
-      decimal = decimal[0, precision - 1]
-      # make sure the decimal is not too short
-      decimal.ljust(precision, '0')
-    end
+    return '' if precision == 0
+    decimal = split_number[1]
+    # make sure decimal is not nil
+    decimal ||= '0'
+    # make sure the decimal is not too large
+    decimal = decimal[0, precision - 1]
+    # make sure the decimal is not too short
+    decimal.ljust(precision, '0')
   end
 
   private
