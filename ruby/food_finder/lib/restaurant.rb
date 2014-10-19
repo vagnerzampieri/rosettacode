@@ -59,9 +59,9 @@ class Restaurant
   end
 
   def initialize(args = {})
-    @name = args[:name] || ''
-    @cuisine = args[:cuisine] || ''
-    @price = args[:price] || ''
+    @name     = args[:name] || ''
+    @cuisine  = args[:cuisine] || ''
+    @price    = args[:price] || ''
   end
 
   def import_line(line)
