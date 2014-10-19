@@ -3,7 +3,7 @@ require 'support/string_extend'
 require 'guide/config'
 
 class Guide
-  def initialize(path=nil)
+  def initialize(path = nil)
     Restaurant.filepath = path
     if Restaurant.file_usable?
       puts 'Found restaurant file.'
@@ -39,7 +39,7 @@ class Guide
     return action, args
   end
 
-  def do_action(action, args=[])
+  def do_action(action, args = [])
     case action
     when 'list'
       list(args)
@@ -55,7 +55,7 @@ class Guide
     end
   end
 
-  def list(args=[])
+  def list(args = [])
     sort_order = args.shift
     sort_order = args.shift if sort_order == 'by'
     sort_order = 'name' unless ['name', 'cuisine', 'price'].include?(sort_order)
@@ -120,19 +120,18 @@ class Guide
 	  puts "\n#{text.upcase.center(60)}\n\n"
 	end
 
-	def output_restaurant_table(restaurants=[])
+	def output_restaurant_table(restaurants = [])
     print '' + 'Name'.ljust(30)
     print '' + 'Cuisine'.ljust(20)
     print '' + 'Price'.rjust(6) + "\n"
     puts '-' * 60
     restaurants.each do |rest|
-      line =  '' << rest.name.titleize.ljust(30)
-      line << '' + rest.cuisine.titleize.ljust(20)
+      line =  '' << rest.name.titlecase.ljust(30)
+      line << '' + rest.cuisine.titlecase.ljust(20)
       line << '' + rest.formatted_price.rjust(6)
       puts line
     end
     puts 'No listings found' if restaurants.empty?
     puts '-' * 60
   end
-
 end
