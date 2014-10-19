@@ -4,5 +4,5 @@
 require File.expand_path('../boot', __FILE__)
 require 'guide/guide'
 
-guide = Guide.new('restaurants.txt')
+guide = Guide.new('data/restaurants.txt')
 guide.launch!
