@@ -1,5 +1,6 @@
 ####Run app
 
+        bundle install
         ruby init.rb
 
 ####Run specs
