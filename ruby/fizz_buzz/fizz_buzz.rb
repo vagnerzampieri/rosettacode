@@ -1,13 +1,9 @@
 def fizz_buzz(value)
-  if value % 3 == 0 and value % 5 == 0
-    'fizzbuzz'
-  elsif value % 3 == 0
-    'fizz'
-  elsif value % 5 == 0
-    'buzz'
-  else
-    value
-  end
+  word = ''
+  word << 'fizz' if value % 3 == 0
+  word << 'buzz' if value % 5 == 0
+  word << value.to_s if word.empty?
+  word
 end
 =begin
 1.upto(100) do |v|

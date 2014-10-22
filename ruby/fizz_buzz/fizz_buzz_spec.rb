@@ -16,6 +16,6 @@ RSpec.describe 'FizzBuzz' do
   end
 
   it "quando o valor não for múltiplo de 3 ou de 5, deve ser o próprio valor" do
-    expect(fizz_buzz(7)).to eql(7)
+    expect(fizz_buzz(7)).to eql('7')
   end
 end
