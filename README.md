@@ -3,3 +3,6 @@
 ###Ruby
         FizzBuzz
         FoodFinder => Simple project of restaurant
+
+##Python
+	FizzBuzz
