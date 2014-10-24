@@ -6,3 +6,6 @@
 
 ##Python
 	FizzBuzz
+
+##Nodejs
+	FizzBuzz
