@@ -1,3 +1,7 @@
+# Use:
+# 1.upto(100) do |v|
+#   p fizz_buzz(v)
+# end
 def fizz_buzz(value)
   word = ''
   word << 'fizz' if value % 3 == 0
@@ -5,8 +9,3 @@ def fizz_buzz(value)
   word << value.to_s if word.empty?
   word
 end
-=begin
-1.upto(100) do |v|
-  p fizz_buzz(v)
-end
-=end
