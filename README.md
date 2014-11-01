@@ -1,11 +1,13 @@
 ## Exercícios do [rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
 ###Ruby
-        FizzBuzz
-        FoodFinder => Simple project of restaurant
+        Fizz Buzz
+        Food Finder => Simple project of restaurant
 
 ##Python
-	FizzBuzz
+	Day of the week
+	Fizz Buzz
+	Repeat String
 
 ##Nodejs
-	FizzBuzz
+	Fizz Buzz
