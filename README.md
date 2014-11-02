@@ -6,6 +6,7 @@
 
 ##Python
 	Day of the week
+	Factorial
 	Fizz Buzz
 	Repeat String
 
