@@ -12,4 +12,5 @@
 	Repeat String
 
 ##Nodejs
+	Count occurrences of a substring
 	Fizz Buzz
