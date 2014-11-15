@@ -2,22 +2,22 @@
 
 ###Nodejs
 
-  Count occurrences of a substring
+    Count occurrences of a substring
 
 ###Python
 
-  Day of the week
-  Factorial
-  Fibonacci
-  Fizz Buzz
-  Repeat String
-  Fizz Buzz
+    Day of the week
+    Factorial
+    Fibonacci
+    Fizz Buzz
+    Repeat String
+    Fizz Buzz
 
 ###R
 
-  Factorial
+    Factorial
 
 ###Ruby
 
-  Fizz Buzz
-  Food Finder => Simple project of restaurant
+    Fizz Buzz
+    Food Finder => Simple project of restaurant
