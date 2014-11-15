@@ -1,11 +1,7 @@
-factorial <- function(n)
-{
-  if (n == 0)
-  {
+factorial <- function(n) {
+  if (n == 0) {
     return(1)
-  }
-  else
-  {
+  } else {
     return(n * factorial(n - 1))
   }
 }
