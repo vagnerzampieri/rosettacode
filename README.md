@@ -1,16 +1,20 @@
 ## Exercícios do [rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
-###Ruby
-        Fizz Buzz
-        Food Finder => Simple project of restaurant
+###Nodejs
+	Count occurrences of a substring
 
-##Python
+###Python
 	Day of the week
 	Factorial
 	Fibonacci
 	Fizz Buzz
 	Repeat String
-
-##Nodejs
-	Count occurrences of a substring
 	Fizz Buzz
+
+###R
+
+  Factorial
+
+###Ruby
+  Fizz Buzz
+  Food Finder => Simple project of restaurant
