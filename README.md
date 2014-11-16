@@ -1,5 +1,9 @@
 ## Exercícios do [rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
+###Elixir
+
+    Factorial
+
 ###Nodejs
 
     Count occurrences of a substring
