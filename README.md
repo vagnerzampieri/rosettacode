@@ -7,6 +7,7 @@
 ###Nodejs
 
     Count occurrences of a substring
+    Fizz Buzz
 
 ###Python
 
@@ -15,7 +16,6 @@
     Fibonacci
     Fizz Buzz
     Repeat String
-    Fizz Buzz
 
 ###R
 
