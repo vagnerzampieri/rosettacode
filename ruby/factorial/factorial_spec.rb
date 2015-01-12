@@ -11,7 +11,7 @@ RSpec.describe 'Factorial' do
     end
 
     it '3 equal 6' do
-      expect(factorial(6)).to eql(6)
+      expect(factorial(3)).to eql(6)
     end
 
     it '10 equal 3628800' do

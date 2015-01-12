@@ -3,4 +3,5 @@
 # => 3628800
 def factorial(value)
   return 1 if value == 0
+  (1..value).reduce(:*)
 end
