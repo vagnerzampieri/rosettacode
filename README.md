@@ -23,5 +23,6 @@
 
 ###Ruby
 
+    Factorial
     Fizz Buzz
     Food Finder => Simple project of restaurant
