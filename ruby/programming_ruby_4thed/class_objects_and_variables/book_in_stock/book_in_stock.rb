@@ -1,5 +1,6 @@
 class BookInStock
-  attr_accessor :isbn, :price
+  attr_reader   :isbn
+  attr_accessor :price
 
   def initialize(isbn, price)
     @isbn = isbn
