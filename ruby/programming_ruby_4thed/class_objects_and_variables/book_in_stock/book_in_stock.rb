@@ -1,5 +1,5 @@
 class BookInStock
-  attr_reader :isbn, :price
+  attr_accessor :isbn, :price
 
   def initialize(isbn, price)
     @isbn = isbn
@@ -20,4 +20,8 @@ puts b2
 puts b3
 
 p "ISBN = #{b1.isbn}"
+p "Price = #{b1.price}"
+
+b1.price = b1.price * 0.75
+
 p "Price = #{b1.price}"
