@@ -41,3 +41,18 @@ def infinite_select(enum, &block)
 end
 
 p infinite_select(triangular_numbers) { |val| val % 10 == 0 }.first(5)
+
+class Enumerator
+  def infinite_select(&block)
+    Enumerator.new do |yielder|
+      self.each do |value|
+        yielder.yield(value) if block.call(value)
+      end
+    end
+  end
+end
+
+p triangular_numbers
+  .infinite_select { |val| val % 10 == 0 }
+  .infinite_select { |val| val.to_s =~ /3/ }
+  .first(5)
