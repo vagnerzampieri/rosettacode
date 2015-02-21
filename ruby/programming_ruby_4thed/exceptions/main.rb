@@ -8,4 +8,12 @@ rescue WalkException => e
 end
 
 walk(:south)
-walk(:north)
+#walk(:north)
+
+for i in 1..5
+  begin
+    do_something
+  rescue => exception
+    p "#{exception}: logar #{i}"
+  end
+end
