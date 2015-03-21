@@ -1,0 +1,2 @@
+# Logfile created on 2015-03-21 18:31:37 +0000 by logger.rb/47272
+W, [2015-03-21T18:31:37.311444 #20398]  WARN -- : measure=service.threads.runtime_error exception=Boom!
