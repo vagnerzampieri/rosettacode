@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+  </head>
+
+  <body>
+    <h3>To do</h3>
+    <div id="todo">
+    </div>
+    <script type="text/template" id="item-template">
+      <div class="view">
+        <input id="todo_complete" type="checkbox" <%= completed ? 'checked="checked"' : '' %> />
+        <label>
+          <%= title %>
+        </label>
+        <button class="destroy"></button>
+      </div>
+      <input class="edit" value="<%= title %>">
+    </script>
+    <script src="lib/jquery-1.11.3.min.js"></script>
+    <script src="lib/JSON-js/cycle.js"></script>
+    <script src="lib/JSON-js/json2.js"></script>
+    <script src="lib/JSON-js/json_parse.js"></script>
+    <script src="lib/JSON-js/json_parse_state.js"></script>
+    <script src="lib/underscore-min.js"></script>
+    <script src="lib/backbone-min.js"></script>
+    <script src="demo.js"></script>
+  </body>
+</html>
