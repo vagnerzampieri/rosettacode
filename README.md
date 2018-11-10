@@ -1,4 +1,4 @@
-## Exercícios do [rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks)
+## [Rosettacode](http://rosettacode.org/wiki/Category:Programming_Tasks) and [Program Creek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) algorithms
 
 ###Crystal
 
@@ -30,3 +30,5 @@
     Factorial
     Fizz Buzz
     Food Finder => Simple project of restaurant
+    Programming Ruby 4thed
+    Rotate Array, Reverse Words in a String
