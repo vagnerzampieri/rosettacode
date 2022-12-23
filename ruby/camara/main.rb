@@ -36,6 +36,10 @@ end
 response = client.get('proposicoes', params)
 # binding.pry
 
+# checar pra ver quantidade de páginas
+# percorrer todas as páginas
+# ir salvando em um CSV
+
 JSON.parse(response.body)['dados'].map do |data|
   data
 end
