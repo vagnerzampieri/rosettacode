@@ -1,0 +1,429 @@
+{
+  id: 171_059,
+  ano: 1971,
+  status: "Arquivada",
+  ementa:
+    "DISPÕE SOBRE ISENÇÃO DE IMPOSTOS PARA PEQUENOS VEICULOS MOTORIZADOS INDIVIDUAIS, E DA OUTRAS PROVIDENCIAS.",
+  autor: "ALBERTO LAVINAS"
+}
+{
+  id: 195_133,
+  ano: 1976,
+  status: "Arquivada",
+  ementa:
+    "DISPÕE SOBRE A CONSTRUÇÃO DE FAIXAS ESPECIAIS DESTINADAS AO TRAFEGO DE BICICLETAS E OUTROS VEICULOS DE TRAÇÃO HUMANA NAS RODOVIAS FEDERAIS E DA OUTRAS PROVIDENCIAS.",
+  autor: "SIQUEIRA CAMPOS"
+}
+{
+  id: 209_745,
+  ano: 1976,
+  status: "Arquivada",
+  ementa:
+    "DISPÕE SOBRE A CONSTRUÇÃO DE CICLOVIAS NO DISTRITO FEDERAL E DA OUTRAS PROVIDENCIAS.",
+  autor: "SIQUEIRA CAMPOS"
+}
+{
+  id: 211_107,
+  ano: 1976,
+  status: "Arquivada",
+  ementa:
+    "DISPÕE SOBRE A IMPLANTAÇÃO DE FAIXAS DESTINADAS AO TRAFEGO DE BICICLETAS, AO LONGO DAS RODOVIAS FEDERAIS.",
+  autor: "OSVALDO BUSKEI"
+}
+{
+  id: 220_149,
+  ano: 1977,
+  status: "Arquivada",
+  ementa:
+    "DETERMINA QUE AS BICICLETAS DE FABRICAÇÃO NACIONAL TENHAM FAROL DIANTEIRO E INDICADOR LUMINOSO EM SUA PARTE TRASEIRA.",
+  autor: "JOSE CAMARGO"
+}
+{
+  id: 196_162,
+  ano: 1979,
+  status: "Arquivada",
+  ementa:
+    "INSTITUI O PROGRAMA NACIONAL DE CICLOVIAS, E DA OUTRAS PROVIDENCIAS.",
+  autor: "CARDOSO FREGAPANI"
+}
+{
+  id: 234_060,
+  ano: 1980,
+  status: nil,
+  ementa:
+    "CONCEDE ISENÇÃO DO PAGAMENTO DE IMPOSTOS MUNICIPAIS PARA LICENCIAMENTO DE BICICLETAS, AOS RESPECTIVOS PROPRIETARIOS.",
+  autor: "ROSEMBURGO ROMANO"
+}
+{
+  id: 247_605,
+  ano: 1981,
+  status: nil,
+  ementa:
+    "SOLICITA INFORMAÇÕES DO MINISTERIO DOS TRANSPORTES SOBRE RECURSOS RESERVADOS NO III PND DO SETOR FERROVIARIO.",
+  autor: "JUAREZ FURTADO"
+}
+{
+  id: 211_744,
+  ano: 1984,
+  status: "Arquivada",
+  ementa:
+    "AUTORIZA O PODER EXECUTIVO A INSTITUIR O PROGRAMA NACIONAL DE CICLOVIAS, E DA OUTRAS PROVIDENCIAS.",
+  autor: "LEONIDAS SAMPAIO"
+}
+{
+  id: 25_590,
+  ano: 1993,
+  status: "Transformado em Norma Jurídica",
+  ementa: "INSTITUI O CODIGO DE TRANSITO BRASILEIRO.",
+  autor: "Poder Executivo"
+}
+{
+  id: 215_003,
+  ano: 1993,
+  status: "Arquivada",
+  ementa:
+    "DISPÕE SOBRE O CODIGO NACIONAL DE TRANSITO, SOBRE O SISTEMA NACIONAL DE TRANSITO E DA OUTRAS PROVIDENCIAS.",
+  autor: "CARLOS LUPI"
+}
+{
+  id: 219_270,
+  ano: 1993,
+  status: "Arquivada",
+  ementa:
+    "CONCEDE ISENÇÃO DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI - PARA BICICLETAS SEM MOTOR E SEM DISPOSITIVO PARA TROCA DE MARCHAS.",
+  autor: "SIDNEY DE MIGUEL"
+}
+{
+  id: 23_526,
+  ano: 1995,
+  status: "Arquivada",
+  ementa: "Sugere à Mesa a criação de estacionamentos para bicicletas.",
+  autor: "Fernando Gabeira"
+}
+{
+  id: 25_778,
+  ano: 1995,
+  status: "Transformado em nova proposição",
+  ementa: "Dispõe sobre a criação de estacionamentos para bicicletas.",
+  autor: "Fernando Gabeira"
+}
+{
+  id: 218_744,
+  ano: 1998,
+  status: nil,
+  ementa:
+    "Dispõe sobre alterações no texto da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro ).",
+  autor: "INOCENCIO OLIVEIRA"
+}
+{
+  id: 219_055,
+  ano: 1998,
+  status: nil,
+  ementa:
+    "Torna obrigatório o uso de capacete de segurança para condutores e passageiros de bicicleta.",
+  autor: "JULIO REDECKER"
+}
+{
+  id: 224_367,
+  ano: 1998,
+  status: nil,
+  ementa:
+    "Altera a redação do art. 58 da Lei nº 9.503, de 23 de setembro de 1997, que \"institui o Código de Trânsito Brasileiro\".",
+  autor: "ELIAS MURAD"
+}
+{
+  id: 593_911,
+  ano: 1998,
+  status: nil,
+  ementa:
+    "Substitutivo do Senado ao Projeto de Lei da Câmara nº 99, de 2007 (nº 4.124, de 1998, na Casa de origem), que \"Acrescenta inciso XX ao caput do art. 181 da Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro\".\r\nDê-se ao Projeto a seguinte redação:\r\nAltera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre sinalização rodoviária indicativa de pronto-socorro, equipamentos obrigatórios das bicicletas, estacionamento irregular em vaga destinada a pessoa com deficiência e procedimentos para notificação de infração.",
+  autor: "Senado Federal"
+}
+{
+  id: 15_408,
+  ano: 1999,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Dispõe sobre alterações no texto da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro).\r\nNOVA EMENTA DA REDAÇÃO FINAL: Altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro.\r\nNOVA EMENTA APÓS A REVISÃO: Altera os artigos 61, 105 e 338 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre especificidades dos veículos de duas e três rodas.",
+  autor: "Inocêncio Oliveira"
+}
+{
+  id: 15_690,
+  ano: 1999,
+  status: "Arquivada",
+  ementa:
+    "Altera o art. 320 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.",
+  autor: "Iédio Rosa"
+}
+{
+  id: 102_709,
+  ano: 1999,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Emendas do Senado ao Projeto de Lei nº 402-C, de 1999, que \"altera a Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro\".\r\nDê-se à ao Projeto a seguinte ementa:\r\n\"Altera os arts. 61, 105 e 338 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre especificidades dos veículos de duas e de três rodas\".",
+  autor: "Senado Federal"
+}
+{
+  id: 26_158,
+  ano: 2001,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.",
+  autor: "Telma de Souza"
+}
+{
+  id: 27_042,
+  ano: 2001,
+  status: "Arquivada",
+  ementa:
+    "Sugere ao Poder Executivo, por intermédio do Ministério da Justiça, a adoção de disco ou calota de proteção para os raios das bicicletas.",
+  autor: "Antônio Jorge"
+}
+{
+  id: 99_931,
+  ano: 2002,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre a obrigatoriedade da marcação da numeração das bicicletas em seu monobloco e dá outras providências.",
+  autor: "Dr. Hélio"
+}
+{
+  id: 114_362,
+  ano: 2003,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre o uso dos passeios, das ciclofaixas e ciclovias.",
+  autor: "Roberto Jefferson"
+}
+{
+  id: 134_620,
+  ano: 2003,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre a implantação de ciclovias nas cidades com população superior a 50 mil habitantes, aglomerações urbanas e regiões metropolitanas.",
+  autor: "Leônidas Cristino"
+}
+{
+  id: 153_420,
+  ano: 2004,
+  status: "Arquivada",
+  ementa:
+    "Altera o inciso VI do art. 105 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre especificidades dos veículos de duas rodas.",
+  autor: "Inocêncio Oliveira"
+}
+{
+  id: 257_781,
+  ano: 2004,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Dá nova redação aos arts. 1º e 2º da Lei nº 8.010, de 29 de março de 1990, e acrescenta a alínea \"f\" ao inciso I do art. 2º da Lei nº 8.032, de 12 de abril de 1990, que dispõem sobre importações de bens destinados a pesquisa científica e tecnológica e suas respectivas isenções ou reduções de impostos.  \r\nNOVA EMENTA DA REDAÇÃO FINAL: Dá nova redação a dispositivos das Leis nºs 8.010, de 29 de março de 1990 e 8.032, de 12 de abril de 1990, para estender a cientistas e pesquisadores a isenção tributária relativa a bens destinados à pesquisa científica e tecnológica; e faculta a inscrição no Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES, das pessoas jurídicas que especifica.",
+  autor: "Poder Executivo"
+}
+{
+  id: 263_142,
+  ano: 2004,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Dá nova redação aos arts. 1º e 2º da Lei nº 8.010, de 29 de março de 1990, e acrescenta a alínea \"f\" ao inciso I do art. 2º da Lei nº 8.032, de 12 de abril de 1990, que dispõem sobre importações de bens destinados a pesquisa científica e tecnológica e isençãos ou redução de impostos de importação.",
+  autor: "Renato Casagrande"
+}
+{
+  id: 287_523,
+  ano: 2005,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta os artigos 1.336 - A e 1.336 - B na Lei nº 10.406, de 10 de janeiro de 2002  - Novo Código Civil -  dispondo sobre a reparabilidade pelo condomínio em caso de  furto ou roubo de veículo automotor, motocicleta ou bicicleta de condômino, ocorrido na garagem ou estacionamento interno.",
+  autor: "João Batista"
+}
+{
+  id: 288_137,
+  ano: 2005,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre a criação do Cadastro Nacional de Bicicletas, e dá outras providências.",
+  autor: "Ivo José"
+}
+{
+  id: 292_529,
+  ano: 2005,
+  status: "Arquivada",
+  ementa:
+    "Sugere ao Ministério das Cidades a formulação de programa para implantação de ciclovias ao longo de trechos de rodovias federais que cortam zonas urbanas.",
+  autor: "Neuton Lima"
+}
+{
+  id: 306_333,
+  ano: 2005,
+  status: "Arquivada",
+  ementa:
+    "Sugere ao Ministério das Cidades sejam tomadas as providências necessárias para a construção de uma ciclovia no percurso do contorno rodoviário da BR-163, no Município de Dourados (MS).",
+  autor: "João Grandão"
+}
+{
+  id: 310_376,
+  ano: 2005,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta dispositivo ao art. 41 da Lei nº 10.257, de 10 de julho de 2001,  (Estatuto da Cidade), para fixar diretriz aplicável aos planos de transporte urbano integrados.",
+  autor: "João Batista"
+}
+{
+  id: 316_518,
+  ano: 2006,
+  status: "Arquivada",
+  ementa:
+    "\"Dispõe sobre a reserva de estacionamento para bicicletas nos estacionamentos, e dá outras providências\".",
+  autor: "Carlos Nader"
+}
+{
+  id: 340_242,
+  ano: 2007,
+  status: "Pronta para Pauta",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997,  que dispõe sobre o Código de Trânsito Brasileiro.",
+  autor: "Solange Amaral"
+}
+{
+  id: 352_982,
+  ano: 2007,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Acrescenta dispositivo ao art. 41 da Lei nº 10.157, de 10 de julho de 2001, Estatuto da Cidade, para fixar diretriz aplicável aos planos de transporte urbano integrados.",
+  autor: "Antonio Bulhões"
+}
+{
+  id: 357_423,
+  ano: 2007,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Estabelece a obrigação de implantação de ciclovias e ciclofaixas nos municípios e rodovias federais.",
+  autor: "Edigar Mão Branca"
+}
+{
+  id: 375_725,
+  ano: 2007,
+  status: "Arquivada",
+  ementa:
+    "Autoriza os Estados a legislar sobre mobilidade urbana, a partir das diretrizes nacionais que estabelece, conforme prevê o parágrafo único do art. 22 da Constituição Federal.",
+  autor: "Marcondes Gadelha"
+}
+{
+  id: 383_074,
+  ano: 2008,
+  status: "Arquivada",
+  ementa:
+    "Regulamenta a atividade de entrega de mercadorias por meio de bicicleta.",
+  autor: "Marcelo Ortiz"
+}
+{
+  id: 389_704,
+  ano: 2008,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.636, de 30 de dezembro de 2002, para incluir entre os objetivos essenciais da aplicação dos recursos da CIDE-Combustíveis a construção de ciclovias.",
+  autor: "Rebecca Garcia"
+}
+{
+  id: 390_014,
+  ano: 2008,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 10.257, de 10 de julho de 2001, (Estatuto da Cidade), para determinar a priorização dos meios de transporte de propulsão humana sobre os motorizados e do transporte coletivo sobre o individual.",
+  autor: "Senado Federal - Antonio Carlos Valadares"
+}
+{
+  id: 391_080,
+  ano: 2008,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre crime doloso de trânsito.",
+  autor: "Jovair Arantes"
+}
+{
+  id: 392_819,
+  ano: 2008,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta dispositivos à Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre os condutores e passageiros de bicicletas.",
+  autor: "Dr. Talmir"
+}
+{
+  id: 395_799,
+  ano: 2008,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a reserva de local para o estacionamento de bicicletas.",
+  autor: "Manuela D'ávila"
+}
+{
+  id: 435_960,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidente sobre bicicletas, suas partes e peças, e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social incidentes sobre a importação e a receita bruta decorrente da venda, no mercado interno, desses bens.",
+  autor: "Daniel Almeida"
+}
+{
+  id: 447_083,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Institui isenção da Contribuição para o PIS/PASEP e da COFINS para receitas oriundas de operações com peças de motocicletas e bicicletas.",
+  autor: "Washington Luiz"
+}
+{
+  id: 448_285,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Altera o art. 214 do Código de Trânsito Brasileiro, instituído pela Lei nº 9.503, de 23 de setembro de 1997.",
+  autor: "Vital do Rêgo Filho"
+}
+{
+  id: 452_939,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidente sobre motocicletas e bicicletas e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social (COFINS) incidentes sobre a receita bruta decorrente da venda, no mercado interno, desses bens, quando adquiridos por Agentes Comunitários de Saúde.",
+  autor: "Elizeu Aguiar"
+}
+{
+  id: 459_345,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta inciso ao art. 181, da Lei nº 9.503, de 23 de setembro  de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a infração por estacionar veículo em local que especifica.",
+  autor: "Camilo Cola"
+}
+{
+  id: 459_346,
+  ano: 2009,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a redação do caput do art. 320 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a aplicação dos recursos arrecadados com a cobrança das multas de trânsito.",
+  autor: "Camilo Cola"
+}
+{
+  id: 459_347,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta inciso ao art. 202 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a infração por ultrapassar outro veículo em local que especifica.",
+  autor: "Camilo Cola"
+}
+{
+  id: 461_042,
+  ano: 2009,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Institui o Programa Bicicleta Brasil, para incentivar o uso da bicicleta visando a melhoria das condições de mobilidade urbana.",
+  autor: "Jaime Martins"
+}
+{
+  id: 465_016,
+  ano: 2009,
+  status: "Arquivada",
+  ementa:
+    "Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre operações com bicicletas e outros ciclos sem motor e com partes e acessórios de motocicletas e bicicletas.",
+  autor: "Marinha Raupp"
+}

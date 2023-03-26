@@ -1,6 +1,7 @@
 require "rubygems"
 require "bundler/setup"
 require "pry"
+require "csv"
 
 Bundler.require(:default)
 
@@ -18,11 +19,9 @@ def client
     )
 end
 
-# ..2009, 2010..
-
-def proposicoes_payload
+def proposicoes_payload(ano)
   {
-    ano: 2010,
+    ano: ano,
     itens: 100,
     pagina: 1,
     keywords: [
@@ -40,45 +39,53 @@ def parsed(response)
   JSON.parse(response.body)["dados"]
 end
 
-proposicoes_response = client.get("proposicoes", proposicoes_payload)
+def get_data(ano)
+  proposicoes_response = client.get("proposicoes", proposicoes_payload(ano))
 
-# checar pra ver quantidade de páginas
-# percorrer todas as páginas
-# ir salvando em um CSV
+  # checar pra ver quantidade de páginas
+  # percorrer todas as páginas
+  # ir salvando em um CSV
 
-proposicoes = parsed(proposicoes_response)
+  proposicoes = parsed(proposicoes_response)
 
-data = []
+  proposicoes.map do |prop|
+    proposicao_response = client.get("proposicoes/#{prop["id"]}")
+    proposicao = parsed(proposicao_response)
 
-proposicoes.map do |prop|
-  proposicao_response = client.get("proposicoes/#{prop["id"]}")
-  proposicao = parsed(proposicao_response)
+    autores_response = client.get("proposicoes/#{prop["id"]}/autores")
+    autores = parsed(autores_response)
+    autor = autores.map { |autor| autor["nome"] }.join(" - ")
 
-  autores_response = client.get("proposicoes/#{prop["id"]}/autores")
-  autores = parsed(autores_response)
-  autor = autores.map { |autor| autor["nome"] }.join(" - ")
-
-  data << {
-    id: proposicao["id"],
-    ano: proposicao["ano"],
-    status: proposicao["statusProposicao"]["descricaoSituacao"],
-    ementa: proposicao["ementa"],
-    autor: autor
-  }
+    @data << {
+      id: proposicao["id"],
+      ano: proposicao["ano"],
+      status: proposicao["statusProposicao"]["descricaoSituacao"],
+      ementa: proposicao["ementa"],
+      autor: autor
+    }
+  end
 end
 
-puts data
+def generate_csv(file_name)
+  CSV.open("proposicoes-#{file_name}.csv", "w") do |csv|
+    csv << %w[id ano status ementa autor]
 
-# CSV.open("proposicoes.csv", "w") do |csv|
-#   csv << %w[id ano status ementa autor]
+    @data.map do |datum|
+      csv << [
+        datum[:id],
+        datum[:ano],
+        datum[:status],
+        datum[:ementa],
+        datum[:autor]
+      ]
+    end
+  end
+end
 
-#   data.map do |datum|
-#     csv << [
-#       datum[:id],
-#       datum[:ano],
-#       datum[:status],
-#       datum[:ementa],
-#       datum[:autor]
-#     ]
-#   end
-# end
+@data = []
+
+(1964..2009).map { |ano| get_data(ano) }
+generate_csv("1964-2009")
+
+(2010..2023).map { |ano| get_data(ano) }
+generate_csv("2010-2023")

@@ -1,0 +1,1163 @@
+{
+  id: 466_364,
+  ano: 2010,
+  status: "Arquivada",
+  ementa:
+    "Estabelece procedimentos para o transporte de bicicletas nos ônibus utilizados nos serviços de transporte interestadual e internacional de passageiros.",
+  autor: "Rodrigo Rollemberg"
+}
+{
+  id: 473_281,
+  ano: 2010,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para desobrigar as bicicletas do registro e do licenciamento.",
+  autor: "Arolde de Oliveira"
+}
+{
+  id: 497_147,
+  ano: 2011,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidentes sobre motocicletas e bicicletas e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social (COFINS) incidentes sobre a receita bruta decorrente da venda, no mercado interno, desses bens, quando adquiridos por Agente Comunitário de Saúde e por Agente de Combate às Endemias.",
+  autor: "Geraldo Resende"
+}
+{
+  id: 497_544,
+  ano: 2011,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidente sobre a receita bruta decorrente da venda de motocicletas e bicicletas e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social (COFINS), quando adquiridos por Agentes Comunitários de Saúde e Agentes de Combate às Endemias.",
+  autor: "Raimundo Gomes de Matos"
+}
+{
+  id: 502_177,
+  ano: 2011,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre a criação do Estatuto dos Sistemas Cicloviários e dá outras providências.",
+  autor: "Lucio Vieira Lima"
+}
+{
+  id: 505_170,
+  ano: 2011,
+  status: "Arquivada",
+  ementa:
+    "Altera a redação do art. 338 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para obrigar os importadores e fabricantes de bicicletas a fornecer, no ato da comercialização do veículo, manual contendo normas de circulação, penalidades, direção defensiva, primeiros socorros e Anexos do Código de Trânsito Brasileiro.",
+  autor: "Mauro Mariani"
+}
+{
+  id: 525_881,
+  ano: 2011,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Obriga a inclusão de ciclovias quando do projeto e da execução de obras rodoviárias federais.",
+  autor: "Fábio Faria"
+}
+{
+  id: 533_028,
+  ano: 2011,
+  status: "Arquivada",
+  ementa:
+    "Acrescenta dispositivo ao art. 41 da Lei nº 10.257, de 10 de julho de 2001, (Estatuto da Cidade), para fixar diretriz aplicável aos planos de transporte urbano integrados.",
+  autor: "Aguinaldo Ribeiro"
+}
+{
+  id: 537_576,
+  ano: 2012,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a isenção dos impostos federais incidentes sobre equipamentos de segurança obrigatórios para motocicletas, motonetas e bicicletas, e dá outras providências.",
+  autor: "Onofre Santo Agostini"
+}
+{
+  id: 539_910,
+  ano: 2012,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidentes sobre motocicletas e bicicletas e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social (COFINS) incidentes sobre a receita bruta decorrente da venda, no mercado interno, desses bens, quando adquiridos por agentes comunitários de saúde.",
+  autor: "Chico D'Angelo"
+}
+{
+  id: 542_847,
+  ano: 2012,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dá nova redação ao inciso VI do art. 105 da Lei nº 9.503, de 23 de setembro de 1997, estabelecendo o capacete como equipamento de uso obrigatório para condutores de bicicletas.",
+  autor: "Onyx Lorenzoni"
+}
+{
+  id: 546_169,
+  ano: 2012,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Concede isenção do IPI - Imposto sobre Produtos Industrializados às bicicletas classificadas na posição 87.12 da Nomenclatura Comum do Mercosul- NCM.",
+  autor: "Felipe Bornier"
+}
+{
+  id: 550_428,
+  ano: 2012,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre bicicletas elétricas.",
+  autor: "Leonardo Picciani"
+}
+{
+  id: 551_735,
+  ano: 2012,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Desonera as operações com bicicletas, suas partes, peças e acessórios, do pagamento do Imposto sobre Produtos Industrializados - IPI, da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.",
+  autor: "Paulo Pimenta"
+}
+{
+  id: 552_272,
+  ano: 2012,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre bicicletas elétricas",
+  autor: "Felipe Bornier"
+}
+{
+  id: 552_918,
+  ano: 2012,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Desonera as operações com bicicletas, suas partes, peças e acessórios, do pagamento do Imposto sobre Produtos Industrializados - IPI, da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.",
+  autor: "Marina Santanna"
+}
+{
+  id: 552_926,
+  ano: 2012,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre bicicletas motorizadas.",
+  autor: "Eliene Lima"
+}
+{
+  id: 553_419,
+  ano: 2012,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre bicicletas elétricas, nos termos que menciona.",
+  autor: "Otavio Leite"
+}
+{
+  id: 562_229,
+  ano: 2012,
+  status: "Arquivada",
+  ementa:
+    "Reconhece o uso da bicicleta como modalidade de transporte regular, obrigando a previsão de um percentual de ciclovias em função da extensão da malha viária urbana.",
+  autor: "Audifax"
+}
+{
+  id: 565_266,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre o IPI - Imposto sobre Produtos Industrializados, fixando alíquota de zero por cento para as bicicletas (item 8712.00.10 da NCM-Nomenclatura Comum do Mercosul), suas partes e acessórios.",
+  autor: "Rogério Peninha Mendonça"
+}
+{
+  id: 573_870,
+  ano: 2013,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, acrescentando aos arts. 181, o inciso XX e 202, o inciso III.",
+  autor: "Camilo Cola"
+}
+{
+  id: 574_183,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Institui isenção do Imposto sobre Produtos Industrializados para operações com bicicletas.",
+  autor: "Raul Lima"
+}
+{
+  id: 576_181,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidente sobre bicicletas, suas partes e acessórios",
+  autor: "Inocêncio Oliveira"
+}
+{
+  id: 579_238,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Fixa alíquota do Imposto sobre Produto Industrializado (IPI) incidente sobre bicicletas.",
+  autor: "Luiz de Deus"
+}
+{
+  id: 582_111,
+  ano: 2013,
+  status: "Retirado pelo Autor",
+  ementa:
+    "Dispõe sobre a redução do Imposto sobre Produtos Industrializados para a aquisição de bicicletas e dá outras providências.",
+  autor: "Sarney Filho"
+}
+{
+  id: 582_419,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a reserva de vagas para bicicletas e veículos não poluentes em estacionamentos públicos e privados.",
+  autor: "Policarpo"
+}
+{
+  id: 583_998,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a redução do Imposto sobre Produtos Industrializados para a aquisição de bicicletas e dá outras providências.",
+  autor: "Sarney Filho"
+}
+{
+  id: 588_759,
+  ano: 2013,
+  status: "Arquivada",
+  ementa:
+    "Obriga os comerciantes varejistas de bicicletas a informar o número de série desses produtos em documentos fiscais.",
+  autor: "Major Fábio"
+}
+{
+  id: 589_624,
+  ano: 2013,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 6.766, de 19 de dezembro de 1979, que dispõe sobre o parcelamento do solo urbano, a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, a Lei nº 11.977, de 7 de julho de 2009, que dispõe sobre o Programa Minha Casa Minha Vida e a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre a circulação de pedestres e ciclistas.",
+  autor: "Walter Feldman"
+}
+{
+  id: 590_803,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.925, de 23 de julho de 2004, para desonerar as operações com bicicletas, suas partes, peças e acessórios do pagamento da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.",
+  autor: "Onyx Lorenzoni"
+}
+{
+  id: 593_375,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 7.418, de 16 de dezembro de 1985, para permitir que o vale-transporte seja utilizado para o custeio de transporte do empregado por meio de bicicletas.",
+  autor: "Rosinha da Adefal"
+}
+{
+  id: 594_052,
+  ano: 2013,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para tratar de equipamento obrigatório para bicicletas elétricas.",
+  autor: "Henrique Oliveira"
+}
+{
+  id: 595_135,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados (IPI) nas operações com bicicletas.",
+  autor: "Major Fábio"
+}
+{
+  id: 599_398,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre desoneração tributária incidente sobre bicicletas, suas partes, peças e acessórios.",
+  autor: "Rodrigo Maia"
+}
+{
+  id: 600_038,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Acrescenta artigo à Lei nº 7.418, de 16 de dezembro de 1985, para instituir o \"Vale-Bicicleta\".",
+  autor: "Fernando Ferro"
+}
+{
+  id: 602_145,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "\"Concede isenção do Imposto sobre Produtos Industrializados (IPI) incidente sobre bicicletas, bem como suas partes e peças separadas, fabricados no território nacional\"",
+  autor: "Dr. Grilo"
+}
+{
+  id: 603_964,
+  ano: 2013,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados incidente sobre bicicletas, suas partes e peças , e reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social incidentes sobre a importação e a receita bruta decorrente da venda, no mercado interno, desses bens.",
+  autor: "Daniel Almeida"
+}
+{
+  id: 611_022,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a regulamentação das bicicletas elétricas, em todo território Nacional.",
+  autor: "Danrlei de Deus Hinterholz - Ricardo Izar"
+}
+{
+  id: 611_051,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados para a aquisição de bicicletas elétricas, mecânicas, e seus acessórios.",
+  autor: "Danrlei de Deus Hinterholz - Ricardo Izar"
+}
+{
+  id: 618_486,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, entre outras providências, para dispor sobre apoio a ciclistas em órgãos públicos.",
+  autor: "Zé Vieira"
+}
+{
+  id: 619_903,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre desoneração tributária incidente sobre bicicletas, suas partes, peças e acessórios, bem como a concessão de crédito para sua aquisição.",
+  autor: "Ronaldo Caiado"
+}
+{
+  id: 622_112,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 6.766, de 19 de dezembro de 1979, que dispõe sobre o Parcelamento do Solo Urbano e dá outras Providências, para determinar a previsão de ciclovias nos novos loteamentos.",
+  autor: "Assis Melo"
+}
+{
+  id: 786_594,
+  ano: 2014,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o art. 320 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para estabelecer nova distribuição dos recursos arrecadados com multas de trânsito.",
+  autor: "Nilson Leitão"
+}
+{
+  id: 843_319,
+  ano: 2014,
+  status: nil,
+  ementa:
+    "Reduz a zero as aliquotas da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação incidentes sobre a receita de vendas e na importação de partes utilizadas em aerogeradores; prorroga os benefícios previstos nas Leis nºs 9.250, de 26 de dezembro de 1995, 9.440, de 14 de março de 1997, 10.931, de 2 de agosto de 2004, 11.196, de 21 de novembro de 2005, 12.024, de 27 de agosto de 2009, e 12.375, de 30 de dezembro de 2010; altera o art. 46 da Lei nº 12.715, de 17 de setembro de 2012, que dispõe sobre a devolução ao exterior ou a destruição de mercadoria estrangeira cuja importação não seja autorizada; altera as Leis nºs 9.430, de 27 de dezembro de 1996, 12.546, de 14 de dezembro de 2011, 12.973, de 13 de maio de 2014, 9.826, de 23 de agosto de 1999, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, 11.051, de 29 de dezembro de 2004, 11.774, de 17 de setembro de 2008, 10.637, de 30 de dezembro de 2002, 12.249, de 11 de junho de 2010, 10.522, de 19 de julho de 2002, 12.865, de 9 de outubro de 2013, 10.820, de 17 de dezembro de 2003, 6.634, de 2 de maio de 1979, 7.433, de 18 de dezembro de 1985, 11.977, de 7 de julho de 2009, 10.931, de 2 de agosto de 2004, 11.076, de 30 de dezembro de 2004, 9.514, de 20 de novembro de 1997, 9.427, de 26 de dezembro de 1996, 9.074, de 7 de julho de 1995, 12.783, de 11 de janeiro de 2013, 11.943, de 28 de maio de 2009, 7.565, de 19 de dezembro de 1986, 12.462, de 4 de agosto de 2011, 9.503, de 23 de setembro de 1997, 11.442, de 5 de janeiro de 2007, 8.666, de 21 de junho de 1993, 9.782, de 26 de janeiro de 1999, 6.360, de 23 de setembro de 1976, 5.991, de 17 de dezembro de 1973, 7.889, de 23 de novembro de 1989, 1.283, de 18 de dezembro de 1950, 12.485, de\r\n12 de setembro de 2011, 5.070, de 7 de julho de 1966, 9.472, de 16 de julho de 1997, 10.480, de 2 de julho de 2002, 8.112, de 11 de dezembro de 1990, 6.530, de 12 de maio de 1978, 5.764, de 16 de dezembro de 1971, 8.080, de 19 de setembro de 1990, 11.079, de 30 de dezembro de 2004, 13.043, de 13 de novembro de 2014, os Decretos-Lei nº 745, de 7 de agosto de 1969 e 3.365, de 21 de junho de 1941, e o Decreto nº 70.235, de 6 de março de 1972; revoga dispositivos das Leis nºs 4.380, de 21 de agosto de 1964, 6.360, de 23 de setembro de 1976, 7.789, de 23 de novembro de 1989, 8.666, de 21 de junho de 1993, 9.782, de 26 de janeiro de 1999, 10.150, de 21 de dezembro de 2000, 9.430, de 27 de dezembro de 1996, 12.973, de 13 de maio de 2014, 8.177, de 1º de março de 1991, 10.637, de 30 de dezembro de 2002, 10.833, de 29 de dezembro de 2003, 10.865, de 30 de abril de 2004, 11.051, de 29 de dezembro de 2004 e 9.514, de 20 de novembro de 1997, e do Decreto-Lei nº 3.365, de 21 de junho de 1941; e dá outras providências.",
+  autor: "Comissão Mista da MPV 656/2014"
+}
+{
+  id: 1_203_637,
+  ano: 2015,
+  status: "Aguardando Definição Encaminhamento",
+  ementa:
+    "Cria o Estatuto Nacional do Ciclista, o Conselho Nacional do Ciclista - CONACICLO, o Fundo Nacional de Incentivo ao Ciclista - FUNACICLO, altera a Lei 9503/97 (Código de Trânsito Brasileiro), estabelece dispositivos de incentivo ao uso de ciclos como meio de transporte, regulamenta a atividade profissional de ciclotaxista e cicloboy e dá outras providências.",
+  autor: "Glauber Braga"
+}
+{
+  id: 1_214_990,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI de equipamentos de segurança no trânsito obrigatórios.",
+  autor: "Christiane de Souza Yared"
+}
+{
+  id: 1_215_365,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Acrescenta o art. 114-A na Lei 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro - para obrigar os fabricantes de bicicletas a gravarem número de série em local de fácil visibilidade, bem como obrigar os comerciantes a informar referido número em documentos fiscais",
+  autor: "Roberto Britto"
+}
+{
+  id: 1_228_039,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o §1º do art. 302 da Lei nº 9.503, de 23 de setembro de 1997 - Institui o Código de Trânsito Brasileiro-, para incluir como causa de aumento de pena do crime de homicídio culposo quando ocasionar a morte e lesão corporal de ciclistas e condutores de veículos de propulsão humana em ciclofaixas, em vias públicas ou em vias públicas de uso misto.",
+  autor: "Rogério Rosso"
+}
+{
+  id: 1_234_066,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Desonera as operações com bicicletas, suas partes, peças e acessórios, do pagamento do Imposto sobre Produtos Industrializados - IPI, da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.",
+  autor: "Augusto Carvalho"
+}
+{
+  id: 1_243_802,
+  ano: 2015,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre a instalação de suporte para colocação de bicicletas nos ônibus de transporte coletivo de passageiros - \"Bike Bus\" e altera a Lei nº 9.504, de 23 de setembro de 1997 - Código de Trânsito Brasileiro.",
+  autor: "Rogério Rosso"
+}
+{
+  id: 1_279_436,
+  ano: 2015,
+  status: "Arquivada",
+  ementa:
+    "Dispõe sobre incentivos fiscais à aquisição de bicicletas, skates, patins e patinetes e dá outras providências.",
+  autor: "Veneziano Vital do Rêgo"
+}
+{
+  id: 1_280_060,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa: "Dispõe sobre incentivos fiscais à aquisição de bicicletas.",
+  autor: "Betinho Gomes"
+}
+{
+  id: 1_548_963,
+  ano: 2015,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997 que \"Institui o Código de Trânsito Brasileiro\" para disciplinar o trânsito nas ciclovias e ciclofaixas.",
+  autor: "Fabio Reis"
+}
+{
+  id: 1_549_366,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para prever um percentual mínimo de espaço, em estacionamentos, para os veículos de transporte não motorizado.",
+  autor: "Veneziano Vital do Rêgo"
+}
+{
+  id: 1_585_109,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.925, de 23 de julho de 2004, e isenta de Imposto sobre Produtos Industrializados as bicicletas.",
+  autor: "Elcione Barbalho"
+}
+{
+  id: 1_594_601,
+  ano: 2015,
+  status: "Retirado pelo Autor",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a identificação, o registro e o licenciamento de bicicletas e ciclomotores.",
+  autor: "Silvio Costa"
+}
+{
+  id: 1_598_867,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"institui o Código de Trânsito Brasileiro\" para criar o Cadastro Nacional de Bicicletas e dá outras providências.",
+  autor: "Felipe Bornier"
+}
+{
+  id: 1_672_670,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Veda o tráfego de bicicletas e congêneres nas vias em que haja ciclovia marginal e dá outras providências.",
+  autor: "Pastor Franklin"
+}
+{
+  id: 1_692_937,
+  ano: 2015,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para fortalecer a institucionalização do transporte cicloviário na política de mobilidade urbana.",
+  autor: "Senado Federal - Randolfe Rodrigues"
+}
+{
+  id: 1_700_877,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"institui o Código de Trânsito Brasileiro, e da outras providências\".",
+  autor: "Rogério Rosso"
+}
+{
+  id: 2_053_337,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Reconhece o uso da bicicleta como modalidade de transporte regular, obrigando a previsão de um percentual de ciclovias em função da extensão da malha viária urbana.",
+  autor: "Carlos Henrique Gaguim"
+}
+{
+  id: 2_071_730,
+  ano: 2015,
+  status: "Arquivada",
+  ementa:
+    "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, no tocante à penalidade por estacionar veículo em locais impróprios.",
+  autor: "Arthur Virgílio Bisneto"
+}
+{
+  id: 2_074_616,
+  ano: 2015,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Institui incentivos à utilização de bicicletas nas cidades e orienta o poder público para a construção de ciclovias.",
+  autor: "Marcelo Belinati"
+}
+{
+  id: 2_075_799,
+  ano: 2015,
+  status: nil,
+  ementa:
+    "Altera o art. 97 da lei nº 8.112, de 11 de dezembro de 1990,que dispõe sobre as hipóteses de licença ao servidor público federal.",
+  autor: "Augusto Carvalho"
+}
+{
+  id: 2_076_739,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº. 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a aplicação dos recursos arrecadados com a cobrança das multas de trânsito.",
+  autor: "Gorete Pereira"
+}
+{
+  id: 2_079_109,
+  ano: 2016,
+  status: "Arquivada",
+  ementa:
+    "Cria o Espaço do Ciclista, nas dependências da Câmara dos Deputados, com infraestrutura física e operacional de apoio aos servidores que utilizam bicicletas como meio de transporte ao trabalho.",
+  autor: "Chico Lopes"
+}
+{
+  id: 2_079_565,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Isenta as bicicletas, suas partes, peças e acessórios, do pagamento do Imposto sobre Produtos Industrializados - IPI.",
+  autor: "Iracema Portella"
+}
+{
+  id: 2_080_107,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Inclui dispositivo no texto da Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre sinalização em rodovias.",
+  autor: "Rômulo Gouveia"
+}
+{
+  id: 2_080_819,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa: "Dispõe sobre incentivos fiscais à aquisição de bicicletas.",
+  autor: "Eros Biondini"
+}
+{
+  id: 2_083_387,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre isenção de Imposto sobre produtos industrializados incidente sobre bicicletas e seus acessórios.",
+  autor: "Vicentinho Júnior"
+}
+{
+  id: 2_088_840,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Isenta do Imposto sobre Produtos Industrializados (IPI) as bicicletas, nas condições que estabelece.",
+  autor: "Lobbe Neto"
+}
+{
+  id: 2_090_370,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Obriga a destinação de espaços a estacionamentos para bicicletas em empresas públicas e privadas.",
+  autor: "Felipe Bornier"
+}
+{
+  id: 2_111_211,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Cria o Fundo Nacional de Incentivo ao Uso da Bicicleta - FUNBIKE, transforma a bicicleta como meio de transporte regular, torna obrigatória a previsão de ciclovias e ciclofaixas na malha viária urbana e dá outras providências.",
+  autor: "Francisco Chapadinha"
+}
+{
+  id: 2_119_750,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Esta Lei modifica as leis nº 12.587, de 3 de janeiro de 2012, que \"Institui as diretrizes da Política Nacional de Mobilidade Urbana; revoga dispositivos dos Decretos-Leis nºs 3.326, de 3 de junho de 1941, e 5.405, de 13 de abril de 1943, da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e das Leis nºs 5.917, de 10 de setembro de 1973, e 6.261, de 14 de novembro de 1975; e dá outras providências\", e nº 10.257, de 10 de julho de 2001, que \"Regulamenta os arts. 182 e 183 da Constituição Federal, estabelece diretrizes gerais da política urbana e dá outras providências\", para dispor sobre a inclusão de bicicletários no Sistema Nacional de Mobilidade Urbana e nos Planos de Mobilidade Urbana, e determinar a implantação de estrutura bicicletária nas instalações onde funcionam órgãos, entidades e unidades administrativas e operacionais da Administração Pública direta e indireta de qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências.",
+  autor: "Mário Heringer"
+}
+{
+  id: 2_121_468,
+  ano: 2016,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Equipara às bicicletas comuns os veículos ciclo-motores elétricos e à combustão de baixa potência, nos termos que especifica, e dá outras providências.",
+  autor: "Guilherme Mussi"
+}
+{
+  id: 2_122_659,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Desonera as operações com bicicletas, suas partes, peças e acessórios, do pagamento do Imposto sobre Produtos Industrializados - IPI, da Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_122_662,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Institui o Programa Adote uma Ciclovia para incentivar o uso da bicicleta visando a melhoria das condições de mobilidade urbana.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_132_414,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, para dispor sobre a obrigatoriedade de reserva de vagas destinadas para bicicletas em estacionamentos.",
+  autor: "Iracema Portella"
+}
+{
+  id: 2_142_715,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Acrescenta dispositivo à Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943, para dispor sobre a obrigatoriedade de instalação de bicicletários e vestiários pelos empregadores.",
+  autor: "Givaldo Vieira"
+}
+{
+  id: 2_154_113,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Reduz a zero as alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre operações de importação e de venda no mercado interno de bicicletas, suas partes e acessórios, e dá outras providências.",
+  autor: "Ronaldo Carletto"
+}
+{
+  id: 2_157_689,
+  ano: 2017,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.925, de 23 de julho de 2004, e isenta de Imposto sobre Produtos Industrializados as bicicletas.",
+  autor: "Rôney Nemer"
+}
+{
+  id: 2_174_633,
+  ano: 2018,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Altera a Lei nº 13.089, de 12 de janeiro de 2015, que institui o Estatuto da Metrópole, e a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana.",
+  autor: "Comissão Mista da MPV 818/2018"
+}
+{
+  id: 2_181_674,
+  ano: 2018,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Autoriza aprovar a construção, com recursos próprios, e dentro de suas instalações, de um bicicletário em edifícios com mais de 80 (oitenta) unidades e obriga os municípios com mais de 100 (cem) mil habitantes a criar e a elaborar um Plano Municipal Cicloviário.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_181_675,
+  ano: 2018,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012 (Política Nacional de Mobilidade Urbana), para criar um sistema de compartilhamento de bicicletas nas áreas urbanas.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_182_399,
+  ano: 2018,
+  status: "Aguardando Designação de Relator",
+  ementa: "Institui o Selo Empresa Amiga do Ciclista e dá outras providências.",
+  autor: "Sergio Vidigal"
+}
+{
+  id: 2_187_721,
+  ano: 2018,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre incentivos fiscais à aquisição de bicicletas dá outras providências.",
+  autor: "Carlos Henrique Gaguim"
+}
+{
+  id: 2_190_907,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a alíquota do IPI - Imposto sobre Produtos Industrializados dos ciclomotores na posição 8711.60.00 da Nomenclatura Comum do Mercosul - NCM.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_192_414,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o artigo 2° da Lei n° 13.724, de 04 de outubro de 2018, que \"Institui o Programa Bicicletas Brasil (PBB) para incentivar o uso da bicicleta visando à melhoria das condições de mobilidade urbana\".",
+  autor: "Amaro Neto"
+}
+{
+  id: 2_195_726,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Institui a obrigatoriedade de instalação de dispositivo antifurto para localização por satélite em bicicletas, motocicletas, motonetas e ciclomotores.",
+  autor: "Jesus Sérgio"
+}
+{
+  id: 2_196_257,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.257, de 10 de julho de 2001 para determinar implantação de ciclovias e ciclofaixas nos municípios no plano diretor.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_197_694,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispões sobre o uso de bicicletas de propulsão elétrica, dotadas ou não de pedais acionados pelo condutor e de patinetes de propulsão elétrica. (PL Mobilidade Urbana Sustentável)",
+  autor: "Aureo Ribeiro"
+}
+{
+  id: 2_198_020,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a obrigatoriedade de bicicletas contarem com circuito eletrônico integrado (chip) que permita sua localização e dá outras providências.",
+  autor: "Otoni de Paula"
+}
+{
+  id: 2_198_176,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.257, de 10 de julho de 2001 para determinar implantação e manutenção de paraciclos no plano diretor.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_199_282,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 7.418, de 16 de dezembro de 1985, que \"institui o Vale-Transporte e dá outras providências\", para prever outras modalidades de transporte.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_199_871,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Disciplina o transporte de patinetes e similares em ciclovias e ciclofaixas e dá  outras providências.",
+  autor: "Gonzaga Patriota"
+}
+{
+  id: 2_201_490,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a segurança e a proteção do ciclista através do treinamento dos condutores de veículos de transporte coletivo de passageiros.",
+  autor: "Juninho do Pneu"
+}
+{
+  id: 2_201_523,
+  ano: 2019,
+  status: "Aguardando Designação de Relator",
+  ementa: "Obriga o suporte bicicletário nos ônibus coletivos.",
+  autor: "Juninho do Pneu"
+}
+{
+  id: 2_203_125,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, para dispor sobre a obrigatoriedade de reserva de vagas destinadas para bicicletas em prédios públicos.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_204_267,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre o compartilhamento de veículo e equipamento individual autopropelido, destinado a micromobilidade em vias públicas urbanas, realizado por meio de aplicativos ou outras plataformas de comunicação em rede.",
+  autor: "André de Paula"
+}
+{
+  id: 2_204_467,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 10.257, de 10 de julho de 2001, prevendo a implantação de bicicletas públicas compartilhadas.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_204_558,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa: "Isenta de IPI bicicletas comuns e elétricas",
+  autor: "Célio Studart"
+}
+{
+  id: 2_205_746,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 12.587, de 3 de janeiro de 2012, para regulamentar o transporte com veículos ciclo motorizados elétricos e dá outras providências.",
+  autor: "Lucas Gonzalez - Vinicius Poit"
+}
+{
+  id: 2_206_203,
+  ano: 2019,
+  status: "Transformado em Norma Jurídica",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro.\r\n\r\nNOVA EMENTA: Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para modificar a composição do Conselho Nacional de Trânsito e ampliar o prazo de validade das habilitações; e dá outras providências.",
+  autor: "Poder Executivo"
+}
+{
+  id: 2_206_256,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Obriga-se aos fabricantes de bicicletas a gravarem um número de série e aterem o mesmo numero em suas notas ficais. Acrescentando o art. 114-A na Lei 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro.",
+  autor: "Charles Fernandes"
+}
+{
+  id: 2_206_294,
+  ano: 2019,
+  status: "Aguardando Definição Encaminhamento",
+  ementa:
+    "Dispõe sobre o Sistema Compartilhado de Micromobilidade como instrumento da Política Nacional de Mobilidade Urbana.",
+  autor: "Eli Corrêa Filho"
+}
+{
+  id: 2_207_711,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o art. 68 do Código de Trânsito Brasileiro para determinar a obrigatoriedade de construção de ciclovias e passarelas dotadas de iluminação nos trechos urbanos de vias rurais.",
+  autor: "Severino Pessoa"
+}
+{
+  id: 2_208_524,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 13.724, de 4 de outubro de 2018, para incluir no rol de ações do Programa Bicicleta Brasil (PBB) sistema de financiamento para aquisição de bicicletas.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_209_380,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a dedução do Imposto de Renda Pessoa Jurídica (IRPJ) das despesas com construção ou disponibilização mediante locação de vestiários e paraciclos para os funcionários de pessoas jurídicas tributadas pelo Lucro Real.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_212_455,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Obriga a previsão de implantação de ciclovias como parte integrante das rodovias federais nos termos que específica.",
+  autor: "Schiavinato"
+}
+{
+  id: 2_216_363,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a circulação de bicicletas e pedestres.",
+  autor: "Luiz Lima"
+}
+{
+  id: 2_216_436,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o Código de Trânsito Brasileiro para garantir ultrapassagem segura a ciclistas.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_218_687,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a obrigatoriedade de implantação de ciclovias/ciclofaixas pelo Poder Público ou empresas concessionárias/privadas em obras e serviços de engenharia, nas intervenções viárias metropolitanas, e de paraciclos e bicicletários em terminais rodoviários, estações metroferroviárias, instalações portuárias, espaços públicos e privados de trabalho, ensino, comércio e lazer, assim como dá nova redação a Lei nº 8.666 de 21 de junho de 1993 que \"Institui normas para licitações e contratos da Administração Pública\", a Lei nº 9.503, de 23 de setembro de 1997 que \"Institui o Código de Trânsito Brasileiro\", a Lei nº 12.587, de 3 de janeiro de 2012 que \"Institui as diretrizes da Política Nacional do Mobilidade Urbana\", a Lei nº 10.257, de 10 de julho de 2001 que \"Estabelece diretrizes gerais da política urbana - Estatuto das Cidades\", a Lei nº 11.977 de 7 de julho de 2009 que \" Dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV e a regularização fundiária de assentamentos localizados em áreas urbanas, e dá outras providências",
+  autor: "Bira do Pindaré"
+}
+{
+  id: 2_220_041,
+  ano: 2019,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Dispõe sobre a doação de bicicletas apreendidas por ato administrativo ou de polícia, para instituições beneficentes.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_223_541,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a regulamentação dos serviços de compartilhamento de bicicletas, bicicletas elétricas e veículos de mobilidade individual.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_227_745,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o Código de Trânsito Brasileiro, Lei 9.503, de 23 de setembro de 1997, para disciplinar a disposição e o uso de equipamentos de mobilidade individual autopropelidos e de compartilhamento.",
+  autor: "Afonso Motta"
+}
+{
+  id: 2_229_876,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o art. 320 do Código de Trânsito Brasileiro para garantir percentual mínimo de aplicação de recursos arrecadados com a cobrança de multas em implantação e adequação de calçadas, passarelas para pedestres, ciclovias e ciclofaixas.",
+  autor: "Glaustin Fokus"
+}
+{
+  id: 2_230_197,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede incentivos fiscais da contribuição para o PIS/PASEP, da Contribuição para o Financiamento da Seguridade Social - COFINS, do Imposto sobre Produtos Industrializados - IPI e do Imposto de Renda das Pessoas Físicas - IRPF, para as bicicletas classificadas no código 87.12 da Tipi.",
+  autor: "João Daniel"
+}
+{
+  id: 2_233_785,
+  ano: 2019,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Isenta do Imposto sobre Produtos Industrializados - IPI os produtos, partes e peças que especifica, quando empregados na fabricação de equipamentos destinados à geração de energia a partir de fontes renováveis.",
+  autor: "Ricardo Teobaldo"
+}
+{
+  id: 2_318_561,
+  ano: 2019,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 10.257, de 10 de julho de 2001, e a Lei nº 13.724, de 4 de outubro de 2018, para ampliar a participação popular no processo de implantação de infraestruturas destinadas à circulação de bicicletas, bem como para determinar a compatibilização do Plano de Mobilidade Urbana com a ampliação do perímetro urbano.",
+  autor: "Senado Federal - Leila Barros"
+}
+{
+  id: 2_237_145,
+  ano: 2020,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a alíquota do IPI - Imposto sobre Produtos Industrializados às bicicletas classificadas na posição 87.12 da Nomenclatura Comum do Mercosul- NCM.",
+  autor: "Felipe Carreras"
+}
+{
+  id: 2_253_677,
+  ano: 2020,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 13.979, de 6 de fevereiro de 2020, para que trabalhadores que optem pelo uso de bicicleta para se deslocar no percurso residência-trabalho e vice-versa para evitar contaminação pela Covid-19 possa perceber o vale-transporte em espécie enquanto perdurar o estado de emergência pública causada pelo coronavírus (covid-19).",
+  autor: "Hugo Leal"
+}
+{
+  id: 2_255_626,
+  ano: 2020,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados - IPI para a cadeia de produção e aquisição de bicicletas, durante o estado de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de 2020, decorrente do coronavírus (COVID-19).",
+  autor: "Otto Alencar Filho - Rodrigo Coelho - Túlio Gadêlha"
+}
+{
+  id: 2_256_649,
+  ano: 2020,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Regulamenta o serviço de entrega de mercadorias com o uso de bicicleta por intermédio de empresa de plataforma digital.",
+  autor: "Eduardo Bismarck"
+}
+{
+  id: 2_262_111,
+  ano: 2020,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados - IPI, da das contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep, e da Contribuição para o Financiamento da Seguridade Social - Cofins para bicicletas.",
+  autor: "Pompeo de Mattos"
+}
+{
+  id: 2_264_217,
+  ano: 2020,
+  status: "Aguardando Parecer",
+  ementa:
+    "Dispõe sobre a certificação de segurança de baterias utilizadas em bicicletas, patins e hoverboards com a finalidade de propulsão elétrica.",
+  autor: "Otoni de Paula"
+}
+{
+  id: 2_265_998,
+  ano: 2020,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Obriga a previsão de um percentual de ciclovias em todos os projetos de modificação da malha viária urbana e torna seu uso modalidade de transporte regular.",
+  autor: "Juninho do Pneu"
+}
+{
+  id: 2_265_999,
+  ano: 2020,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Zera o IPI – imposto sobre produtos industrializados, para a venda de bicicletas e suas peças.",
+  autor: "Juninho do Pneu"
+}
+{
+  id: 2_267_241,
+  ano: 2020,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei n.º 13.724, de 04 de outubro de 2018, que institui o Programa Bicicleta Brasil, incluindo a realização da Semana da Bicicleta, em âmbito nacional.",
+  autor: "Coronel Chrisóstomo"
+}
+{
+  id: 2_267_537,
+  ano: 2020,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera o art. 37 da Lei nº 9.504, de 30 de setembro de 1997, para vedar a prática de propaganda eleitoral por meio da utilização de bandeiras ao longo das vias públicas.",
+  autor: "Cássio Andrade"
+}
+{
+  id: 2_268_716,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a concessão de isenção de IPI – Imposto sobre Produto Industrializado – das alíquotas da Contribuição para o Financiamento da Seguridade Social – COFINS - e do PIS/PASEP incidentes sobre a importação e a receita bruta decorrente da venda de bicicletas e suas partes e peças.",
+  autor: "Amaro Neto"
+}
+{
+  id: 2_269_514,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Esta Lei isenta as bicicletas classificadas na posição 8712.00.10 da Tabela de Incidência do IPI, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016, do Imposto sobre Produtos Industrializados, da Contribuição para o Financiamento da Seguridade Social e da Contribuição para o PIS/Pasep.",
+  autor: "Carlos Henrique Gaguim"
+}
+{
+  id: 2_270_458,
+  ano: 2021,
+  status: "Arquivada",
+  ementa:
+    "Susta a Resolução do Comitê Executivo de Gestão da Câmara de Comércio Exterior do Ministério da Economia– GECEX, N°159, de 17 de fevereiro de 2021, publicada no Diário Oficial da União de 18 de fevereiro de 2021, que altera o Anexo II a Resolução GECEX Nº 125, de 15 de dezembro de 2016.",
+  autor:
+    "Afonso Florence - Airton Faleiro - Alencar Santana Braga - Alexandre Padilha - Enio Verri - Erika Kokay - Frei Anastacio Ribeiro - Gleisi Hoffmann - João Daniel - José Guimarães - José Ricardo - Leo de Brito - Leonardo Monteiro - Marcon - Maria do Rosário - Merlong Solano - Nilto Tatto - Patrus Ananias - Paulão - Paulo Pimenta - Paulo Teixeira - Pedro Uczai - Professora Rosa Neide - Rogério Correia - Rubens Otoni - Valmir Assunção - Vander Loubet - Zé Carlos"
+}
+{
+  id: 2_271_970,
+  ano: 2021,
+  status: "Arquivada",
+  ementa:
+    "Altera o inciso VIII do art. 181 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a natureza da infração nele prevista.",
+  autor: "Carlos Bezerra"
+}
+{
+  id: 2_275_239,
+  ano: 2021,
+  status: "Aguardando Pendências",
+  ementa:
+    "Susta a Resolução do Comitê Executivo de Gestão da Câmara de Comércio Exterior, do Ministério da Economia – GECEX, N°170, de 18 de março de 2021, publicada no Diário Oficial da União de 19 de março de 2021, que altera o Anexo II da Resolução nº 125, de 15 de dezembro de 2016.",
+  autor: "José Ricardo"
+}
+{
+  id: 2_280_111,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a inclusão da mobilidade ativa no rol de atividades a serem custeadas com a receita arrecadada com as multas de trânsito e estabelece percentual mínimo de aplicação.",
+  autor: "Gustavo Fruet"
+}
+{
+  id: 2_283_223,
+  ano: 2021,
+  status: "Devolvida ao Autor",
+  ementa:
+    "Reduz a zero as alíquotas da Contribuição para o PIS/Pasep e da Cofins incidentes sobre operações de importação e de venda no mercado interno de bicicletas, suas partes e acessórios, e dá outras providências.",
+  autor: "Ronaldo Carletto"
+}
+{
+  id: 2_283_626,
+  ano: 2021,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, para incluir o inciso XIV no artigo 29, disciplinando sobre a prioridade dos ciclistas no trânsito e a presunção de culpa em caso de acidente.",
+  autor: "Márcio Marinho"
+}
+{
+  id: 2_302_356,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre micromobilidade urbana, regulamenta o uso dos cicloelétricos e dá outras providências.",
+  autor: "Da Vitoria"
+}
+{
+  id: 2_309_982,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Obriga a contratação de seguros de vida, acidentes pessoais e assistência funeral em benefício dos entregadores de mercadorias que se utilizam de motocicletas, motonetas e patinetes elétricos ou bicicletas.",
+  autor: "Bacelar - Fábio Trad - Otavio Leite"
+}
+{
+  id: 2_311_951,
+  ano: 2021,
+  status: "Tramitando em Conjunto",
+  ementa: "Dispõe sobre a criação de estacionamentos públicos para bicicletas.",
+  autor: "José Nelto"
+}
+{
+  id: 2_314_081,
+  ano: 2022,
+  status: "Aguardando Parecer",
+  ementa:
+    "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a inclusão da mobilidade ativa no rol de temas obrigatórios das campanhas educativas de trânsito.",
+  autor: "Gustavo Fruet"
+}
+{
+  id: 2_326_121,
+  ano: 2022,
+  status: "Aguardando Designação de Relator",
+  ementa:
+    "Altera o inciso VI do art. 105 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, a fim de definir os equipamentos obrigatórios destinados às bicicletas.",
+  autor: "Darci de Matos"
+}
+{
+  id: 2_326_461,
+  ano: 2022,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Concede isenção do Imposto sobre Produtos Industrializados (IPI) incidente sobre os produtos que menciona, quando adquiridos pelos entregadores de encomendas, pessoas físicas, para utilização exclusiva no serviço de entregas por meio de aplicativos ou sites na internet, por telefone ou por outros meios.",
+  autor: "João Daniel"
+}
+{
+  id: 2_334_218,
+  ano: 2022,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Reduz a carga tributária sobre a produção e importação de bicicletas elétricas, patinetes, scooters e motocicletas.",
+  autor: "Tito"
+}
+{
+  id: 2_345_319,
+  ano: 2022,
+  status: "Tramitando em Conjunto",
+  ementa:
+    "Dispõe sobre a obrigatoriedade da disponibilização de capacetes para trabalhadores de aplicativos de entrega",
+  autor: "José Nelto"
+}
+{
+  id: 2_349_727,
+  ano: 2023,
+  status: "Aguardando Despacho do Presidente da Câmara dos Deputados",
+  ementa:
+    "Altera a Lei 10.257, de 10 de julho de 2001, para incluir, no conteúdo mínimo do plano diretor, normas sobre planejamento integrado de políticas públicas.",
+  autor: "Renata Abreu"
+}
