@@ -45,12 +45,15 @@ def get_data(ano)
   # checar pra ver quantidade de páginas
   # percorrer todas as páginas
   # ir salvando em um CSV
+  # inserir o link de acesso para o texto na integra da ementa
 
   proposicoes = parsed(proposicoes_response)
 
   proposicoes.map do |prop|
     proposicao_response = client.get("proposicoes/#{prop["id"]}")
     proposicao = parsed(proposicao_response)
+
+    puts proposicao
 
     autores_response = client.get("proposicoes/#{prop["id"]}/autores")
     autores = parsed(autores_response)
@@ -61,14 +64,15 @@ def get_data(ano)
       ano: proposicao["ano"],
       status: proposicao["statusProposicao"]["descricaoSituacao"],
       ementa: proposicao["ementa"],
-      autor: autor
+      autor: autor,
+      url: proposicao["urlInteiroTeor"]
     }
   end
 end
 
 def generate_csv(file_name)
-  CSV.open("proposicoes-#{file_name}.csv", "w") do |csv|
-    csv << %w[id ano status ementa autor]
+  CSV.open("proposicoes-#{file_name}-#{Date.today}.csv", "w") do |csv|
+    csv << %w[id ano status ementa autor url]
 
     @data.map do |datum|
       csv << [
@@ -76,7 +80,8 @@ def generate_csv(file_name)
         datum[:ano],
         datum[:status],
         datum[:ementa],
-        datum[:autor]
+        datum[:autor],
+        datum[:url]
       ]
     end
   end
