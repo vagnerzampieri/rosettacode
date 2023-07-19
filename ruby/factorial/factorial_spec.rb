@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require './factorial'
 
 RSpec.describe 'Factorial' do
@@ -15,7 +17,7 @@ RSpec.describe 'Factorial' do
     end
 
     it '10 equal 3628800' do
-      expect(factorial(10)).to eql(3628800)
+      expect(factorial(10)).to eql(3_628_800)
     end
   end
 end

@@ -8,3 +8,11 @@ def factorial(value)
 
   (1..value).reduce(:*)
 end
+
+# def fat(value)
+#   return 1 if value.zero?
+
+#   value * fat(value - 1)
+# end
+
+# puts fat(5)
