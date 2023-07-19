@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Rotate Array
 # https://www.programcreek.com/2015/03/rotate-array-in-java/
 # Rotate an array of n elements to the right by k steps.

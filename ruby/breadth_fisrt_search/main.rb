@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 GRAFO = {
   you: %w[alice bob claire],
   bob: %w[anuj peggy],

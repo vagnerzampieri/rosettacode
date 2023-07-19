@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # transform a number into a number with words
 # get the number from the user
 # use a hash table to get the information about the words
@@ -27,7 +29,7 @@ def less_than_one_hundred(num)
   tens_digit = num / 10 * 10
   ones_digit = num % 10
 
-  return "#{WORDS[tens_digit]} #{WORDS[ones_digit]}" if ones_digit > 0
+  return "#{WORDS[tens_digit]} #{WORDS[ones_digit]}" if ones_digit.positive?
 
   WORDS[tens_digit]
 end
