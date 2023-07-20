@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Big O: O(n^2)
 def find_fourth_repeated_number(matrix)
   # 1. create a hash
   count = Hash.new(0)
