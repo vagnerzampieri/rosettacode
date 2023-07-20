@@ -14,7 +14,7 @@
 # Repita isso até que um jogador tenha todas as cartas e seja o vencedor.
 
 # Bônus: se as cartas sorteadas forem iguais, 4 cartas são sorteadas e comparadas de uma vez,
-# com o vencedor das partidas mais partidas levando todas as cartas
+# com o vencedor das partidas mais partidas levando todas as cartas (se der empate é sorteio )
 
 # 1. Crie um array com todas as cartas do baralho
 # 2. Embaralhe as cartas
@@ -57,7 +57,14 @@ while player1 || player2
   player1_pop = player1.pop
   player2_pop = player2.pop
 
-  player = cards[player1_pop] >= cards[player2_pop] ? player1 : player2
+  player = if cards[player1_pop] == cards[player2_pop]
+             [player1, player2].sample
+           elsif cards[player1_pop] > cards[player2_pop]
+             player1
+           else
+             player2
+           end
+
   player.append(player1_pop)
   player.append(player2_pop)
   count += 1
