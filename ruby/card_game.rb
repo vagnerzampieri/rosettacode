@@ -26,15 +26,14 @@
 suits = %w[♠ ♥ ♦ ♣]
 ranks = %w[2 3 4 5 6 7 8 9 10 J Q K A]
 cards = {}
+player1 = []
+player2 = []
 
 suits.each do |suit|
   ranks.each.with_index do |rank, i|
     cards["#{suit}-#{rank}"] = i
   end
 end
-
-player1 = []
-player2 = []
 
 cards_shuffled = cards.keys.shuffle
 
