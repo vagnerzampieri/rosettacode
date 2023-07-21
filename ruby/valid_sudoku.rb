@@ -10,6 +10,7 @@
 
 # @param {Character[][]} board
 # @return {Boolean}
+# Big O: O(n^2)
 def valid_sudoku?(board)
   hash_column = Hash.new { |hash, key| hash[key] = Hash.new(0) }
 
