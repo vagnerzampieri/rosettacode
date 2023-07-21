@@ -11,11 +11,16 @@
 def rotate(matrix)
   new_matrix = []
 
+  # 1. Get the length of the matrix
   matrix.length.times do
     new_array = []
+
+    # 2. Pop the last element of each row and prepend it to a new array
     matrix.each do |row|
       new_array.prepend(row.pop)
     end
+
+    # 3. Prepend the new array to the new matrix
     new_matrix.prepend(new_array)
   end
 

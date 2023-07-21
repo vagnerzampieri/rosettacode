@@ -12,6 +12,7 @@
 # @return {Boolean}
 # Big O: O(n^2)
 def valid_sudoku?(board)
+  # 1. Create a hash for each row, and column
   hash_column = Hash.new { |hash, key| hash[key] = Hash.new(0) }
 
   divide_into_subgrids(board).each do |row|
@@ -23,15 +24,18 @@ def valid_sudoku?(board)
     end
   end
 
+  # 2. Iterate through each row and column
   board.each do |row|
     hash_row = Hash.new(0)
 
+    # 3. Iterate through each element in the row and column
     row.each.with_index do |rw, i|
       next if rw == '.'
 
       hash_row[rw] += 1
       hash_column[i][rw] += 1
 
+      # 4. Return false if the element is repeated
       return false if hash_row[rw] > 1
       return false if hash_column[i][rw] > 1
     end
@@ -43,10 +47,13 @@ end
 def divide_into_subgrids(board)
   subgrids = []
 
+  # 1. Divide the board into 9 subgrids
   (0..6).step(3) do |row_start|
+    # 2. Divide each subgrid into 3 subgrids
     (0..6).step(3) do |col_start|
       subgrid = []
 
+      # 3. Iterate through each subgrid and push the value into the subgrid array
       3.times do |row_offset|
         3.times do |col_offset|
           value = board[row_start + row_offset][col_start + col_offset]
