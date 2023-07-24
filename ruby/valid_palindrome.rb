@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 def valid_palindrome(s)
-  modified_s = s.downcase.gsub(/[^a-z0-9]/, '')
+  modified_s = s.downcase.delete('^a-z0-9')
 
   modified_s == modified_s.reverse
 end
