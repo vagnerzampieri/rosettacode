@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Big O: O(n)
 def valid_anagram(s, t)
   count_s = Hash.new(0)
   count_t = Hash.new(0)

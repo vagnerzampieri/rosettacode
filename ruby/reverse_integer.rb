@@ -7,6 +7,7 @@
 
 # @param {Integer} x
 # @return {Integer}
+# Big O: O(n)
 def reverse(x)
   max_32bit = 2**31 - 1
   min_32bit = -2**31

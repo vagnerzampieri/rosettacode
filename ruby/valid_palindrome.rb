@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+# Big O: O(n)
 def valid_palindrome(s)
   modified_s = s.downcase.delete('^a-z0-9')
 

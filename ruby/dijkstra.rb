@@ -56,6 +56,7 @@ def order_by_parents(parents)
 end
 
 # Dijsktra's algorithm
+# Big O: O(n^2)
 node = find_node_lower_cost(costs, processed)
 
 while node
