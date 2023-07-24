@@ -21,29 +21,31 @@
 #   - Do not ignore any characters other than the leading whitespace or the rest of the string after the digits.
 
 def my_atoi(s)
-  # Step 1: Read in and ignore any leading whitespace.
+  # 1. Read in and ignore any leading whitespace.
   s = s.lstrip
 
-  # Step 2: Check if the next character is '-' or '+'.
+  # 2. Check if the next character is '-' or '+'.
   sign = 1
+
   if s[0] == '-' || s[0] == '+'
     sign = -1 if s[0] == '-'
     s = s[1..]
   end
 
-  # Step 3: Read in next the characters until the next non-digit character or the end of the input is reached.
+  # 3. Read in next the characters until the next non-digit character or the end of the input is reached.
   digits = s[/\A\d+/]
 
-  # Step 4: Convert the digits into an integer.
+  # 4. Convert the digits into an integer.
   num = digits.to_i * sign
 
-  # Step 5: Clamp the integer to the 32-bit signed integer range.
+  # 5. Clamp the integer to the 32-bit signed integer range.
   int_min = -2**31
   int_max = 2**31 - 1
+
   num = int_min if num < int_min
   num = int_max if num > int_max
 
-  # Return the integer as the final result.
+  # 6. Return the integer as the final result.
   num
 end
 
