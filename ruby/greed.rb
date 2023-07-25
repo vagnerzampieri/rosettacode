@@ -18,11 +18,10 @@ until all_states_needed.empty?
 
   stations.each do |station, states_for_station|
     covered = all_states_needed & states_for_station
+    next unless covered.length > states_covered.length
 
-    if covered.length > states_covered.length
-      best_station = station
-      states_covered = covered
-    end
+    best_station = station
+    states_covered = covered
   end
 
   all_states_needed -= states_covered
