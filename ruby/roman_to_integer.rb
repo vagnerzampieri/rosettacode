@@ -37,19 +37,20 @@ def roman_to_int(s)
   # 3. Iterate through the Roman numeral string
   i = 0
 
+  # 4. While is used instead of each_char because we need to access the next character
   while i < s.length
-    # 4. Get the value of the current Roman numeral
+    # 5. Get the value of the current Roman numeral
     current_value = roman_values[s[i]]
-    # 5. Get the value of the next Roman numeral
+    # 6. Get the value of the next Roman numeral
     next_value = roman_values[s[i + 1]]
 
-    # 6. Check if the current numeral is smaller than the next numeral
+    # 7. Check if the current numeral is smaller than the next numeral
     if i + 1 < s.length && next_value > current_value
-      # 7. If yes, subtract its value from the result
+      # 8. If yes, subtract its value from the result
       result += next_value - current_value
-      i += 2 # 8. Skip the next numeral
+      i += 2 # 9. Skip the next numeral
     else
-      # 9. If no, add its value to the result
+      # 10. If no, add its value to the result
       result += current_value
       i += 1
     end
