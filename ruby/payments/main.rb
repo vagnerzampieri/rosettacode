@@ -2,6 +2,7 @@ require 'sinatra'
 require 'dry-transaction'
 require 'dry-validation'
 require 'debug'
+require 'ruby-prof'
 
 class CartContract < Dry::Validation::Contract
   params do
@@ -53,7 +54,7 @@ get '/' do
     items: [
       { sku: 123, amount: 132.75, discount: 0.1 },
       { sku: 123, amount: 117.11, discount: 0.0 },
-      { sku: 123, amount: 99.99 }
+      { sku: 123, amount: 99.99, discount: 0.05 }
     ]
   }
 
