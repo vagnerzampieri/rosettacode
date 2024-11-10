@@ -1,0 +1,8 @@
+development:
+  clients:
+    default:
+      database: login_suspension_development
+      hosts:
+        - localhost:27020
+      options:
+        server_selection_timeout: 1
