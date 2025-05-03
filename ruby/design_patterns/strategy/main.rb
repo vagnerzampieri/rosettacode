@@ -2,6 +2,11 @@
 
 # This code snippet demonstrates the use of the Strategy design pattern in Ruby.
 
+# references:
+# https://morningcoffee.io/interfaces-in-ruby.html
+# https://refactoring.guru/design-patterns/strategy
+# https://www.youtube.com/watch?v=DzlXwgsc_AU
+
 require_relative './icms'
 require_relative './ipi'
 require_relative './iss'

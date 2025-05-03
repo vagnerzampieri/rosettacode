@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+# references:
+# https://refactoring.guru/design-patterns/adapter
+# https://www.youtube.com/watch?v=Fg1kEjaaBrs
+
 require_relative 'tempory_data_store_adapter/memory'
 
 adapter = TemporaryDataStoreAdapter::Memory.new

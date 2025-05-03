@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+# references:
+# https://refactoring.guru/design-patterns/facade
+# https://www.youtube.com/watch?v=4Aq9UHQ5f5Y
+
 require_relative 'facade'
 require_relative 'subsystem_one'
 require_relative 'subsystem_two'
