@@ -16,4 +16,3 @@ require_relative 'csv_data_miner'
 DocDataMiner.new.mine('path/to/doc/file')
 PdfDataMiner.new.mine('path/to/pdf/file')
 CsvDataMiner.new.mine('path/to/csv/file')
-
