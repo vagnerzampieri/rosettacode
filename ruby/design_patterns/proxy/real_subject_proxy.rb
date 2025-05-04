@@ -29,6 +29,6 @@ class RealSubjectProxy < Subject
   end
 
   def log_access
-    print 'RealSubjectProxy: Logging the time of request.'
+    puts 'RealSubjectProxy: Logging the time of request.'
   end
 end
